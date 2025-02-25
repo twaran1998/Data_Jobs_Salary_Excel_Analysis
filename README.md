@@ -1,6 +1,6 @@
 ## Introduction
 
-As a former job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
+As an aspiring job seeker, I’ve always been surprised by the lack of data exploring the most optimal jobs and skills in the data science market. I set out to understand what skills top employers request and how to land more pay.
 
 ### Questions to Analyze
 
@@ -171,8 +171,16 @@ It includes detailed information on:
 
 - This chart highlights the importance of investing time in learning high-value skills like Python and SQL, which are evidently tied to higher paying roles, especially for those looking to maximize their salary in the tech industry.
 
+**Why I Am a Strong Fit for Data and Business Analyst Roles:**  
+This project demonstrates my ability to collect, clean, analyze, and visualize data to derive actionable business insights. My approach to problem-solving and storytelling through dashboards aligns perfectly with business analysis and data analytics roles.
+
+### 🔗 **Portfolio & Social Links:**  
+- [LinkedIn](https://www.linkedin.com/in/twaransahai/)  
+- [GitHub](https://github.com/twaran1998)  
+- [Portfolio](https://twaransahai-portfolio-ts.netlify.app/)
+- [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/Business_Analyst_Resume.pdf) 
+
 ## Conclusion
 
 As a data enthusiast and former job seeker, I embarked on this Excel-based project to uncover valuable insights about the data science job market. Using a dataset I've curated from real-world job postings, I analyzed job titles, salaries, locations, and essential skills. By leveraging Excel features like Power Query, PivotTables, DAX, and charts, I discovered key correlations between multiple skills and higher salaries, particularly in Python, SQL, and cloud technologies. 
-
 I hope this project serves as a practical guide for data professionals and provides an overview of the skills needed for higher-paying roles.
