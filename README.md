@@ -178,7 +178,7 @@ This project demonstrates my ability to collect, clean, analyze, and visualize d
 - [LinkedIn](https://www.linkedin.com/in/twaransahai/)  
 - [GitHub](https://github.com/twaran1998)  
 - [Portfolio](https://twaransahai-portfolio-ts.netlify.app/)
-- [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/Business_Analyst_Resume.pdf) 
+- [Resume](https://twaransahai-portfolio-ts.netlify.app/assets/resume/RESUME_TWARAN_SAHAI.pdf) 
 
 ## Conclusion
 
